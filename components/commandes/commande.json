@@ -1,0 +1,10 @@
+{
+  "info": {
+    "name": "commande",
+    "icon": "coffee"
+  },
+  "options": {},
+  "attributes": {},
+  "connection": "default",
+  "collectionName": "components_commandes_commandes"
+}

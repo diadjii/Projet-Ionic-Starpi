@@ -1,0 +1,36 @@
+{
+  "connection": "default",
+  "collectionName": "users",
+  "info": {
+    "name": "User"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "email": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "nom": {
+      "type": "string"
+    },
+    "prenom": {
+      "type": "string"
+    },
+    "adresse": {
+      "type": "string"
+    },
+    "password": {
+      "type": "password"
+    },
+    "phoneNumber": {
+      "type": "integer"
+    },
+    "role": {
+      "type": "integer"
+    }
+  }
+}

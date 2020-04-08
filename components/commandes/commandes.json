@@ -1,0 +1,14 @@
+{
+  "info": {
+    "name": "commandes",
+    "icon": "hand-paper"
+  },
+  "options": {},
+  "attributes": {
+    "user": {
+      "model": "user"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_commandes_commandes"
+}
